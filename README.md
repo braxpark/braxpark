@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am interested in distributed programming, deep learning, and differential geometry.
+<br>
+I am currently trying to get experience in the open source ecosystems to hopefully refine and improve my skills as an engineer.
+
 <!--
 **brax-p/brax-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
