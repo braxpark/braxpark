@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am interested in distributed programming, deep learning, and differential geometry.
+I am interested in distributed programming, deep learning, and computational geometry.
 <br>
 I am currently trying to get experience in open source ecosystems to refine and improve my skills as an engineer.
 
