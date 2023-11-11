@@ -1,8 +1,8 @@
 ### Hi there 👋
-
-I am interested in distributed programming, deep learning, and computational geometry.
+I am a full time software developer!
 <br>
-I am currently trying to get experience in open source ecosystems to refine and improve my skills as an engineer.
+Outside of my job, I am interested in distributed programming, deep learning, and computational geometry.
+<br>
 
 <!--
 **brax-p/brax-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
