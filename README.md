@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a full time software developer!
+I am a full time software engineer!
 <br>
 Outside of my job, I am interested in distributed programming, deep learning, and computational geometry.
 <br>
